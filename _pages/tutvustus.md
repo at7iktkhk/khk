@@ -1,6 +1,6 @@
 ---
 ID: 12
-post_title: Tutvustus▼
+post_title: Tutvustus
 author: at7iktkhk
 post_excerpt: ""
 layout: page
@@ -8,7 +8,6 @@ permalink: http://at7.ikt.khk.ee/khk/tutvustus/
 published: true
 post_date: 2018-03-07 07:28:57
 ---
-<h1 class="entry-title">Tutvustus</h1>
 Kopli 1A, 4. korruselOsakonnajuhataja: <b>Signe Vedler</b>, Kopli 1A-405, tel 7 361 842, <a href="mailto:signe.vedler@khk.ee">signe.vedler@khk.ee</a>.
 <h3>Vastuvõtt toimub:</h3>
 <ul>
