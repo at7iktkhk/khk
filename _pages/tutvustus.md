@@ -8,6 +8,7 @@ permalink: http://at7.ikt.khk.ee/khk/tutvustus/
 published: true
 post_date: 2018-03-07 07:28:57
 ---
+<div style="width:80%;">
 Kopli 1A, 4. korrusel
 
 Osakonnajuhataja: <b>Signe Vedler</b>, Kopli 1A-405, tel 7 361 842, <a href="mailto:signe.vedler@khk.ee">signe.vedler@khk.ee</a>.
@@ -54,3 +55,4 @@ raamatupidamise eriala
  	<li><strong>Jaanika Karp</strong>  -raamatupidajate vabariiklik kutsevõistlus 2015  III koht.</li>
  	<li><b>Triin Siim</b>– 2012. a vabariikliku kutsevõistluse võitja</li>
 </ul>
+</div>
