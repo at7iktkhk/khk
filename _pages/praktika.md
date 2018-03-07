@@ -12,12 +12,12 @@ Kutseõppe oluliseks osaks on praktika, mis võimaldab esmaseid kutsealaseid tea
 
 Ettevõtetele on praktikantide vastuvõtmine ja juhendamine heaks võimaluseks kasvatada oma ettevõtte vajadustele vastavaid uusi noori töötajaid. Tartu Kutsehariduskeskusel on üle 1100 partnerist praktikaettevõtte. Paljudega neist on sõlmitud ka koostöölepped ning mitmed ettevõtted annavad välja ka stipendiume andekatele noortele.
 
-<span style="color: #1f77b7;">Töökohapõhine õpe</span>
+<strong><span style="color: #1f77b7;">Töökohapõhine õpe</span></strong>
 Töökohapõhine õpe on kutseõppe vorm, mille puhul vähemalt kaks kolmandikku õppest toimub ettevõttes. Seega saab ettevõte koostöös kutsehariduskeskusega koolitada uusi või olemasolevaid töötajaid, kellel puudub kutsekvalifikatsioon.
 
 Kui Teil on soov töökohapõhist õpet oma ettevõttes rakendada, siis tutvuge infoga ja võtke ühendust töökohapõhise õppe koordinaatoriga.
 
-<span style="color: #1f77b7;">Koolitused</span>
+<strong><span style="color: #1f77b7;">Koolitused</span></strong>
 Tartu Kutsehariduskeskuse koolitus- ja nõustamiskeskusel on pikaajaline kogemus tööalaste koolituste korraldamisel. Oleme usaldusväärseks koolituspartneriks ettevõtetele üle Eesti.
 
 koostame Teie vajadustele vastava õppekava ja kaasame sobivad koolitajad;
