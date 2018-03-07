@@ -25,4 +25,4 @@ Tartu Kutsehariduskeskuse koolitus- ja nõustamiskeskusel on pikaajaline kogemus
 </ul>
 Koolitused viiakse läbi Tartu Kutsehariduskeskuse õppehoonetes või Teile sobivas kohas.
 
-Ülevaade avatud kursustest ja toimumisaegadest.
+Ülevaade avatud <a href="http://khk.ee/koolitus/koolitus/koik-koolitused">kursustest ja toimumisaegadest.</a>
