@@ -19,9 +19,9 @@ Kui Teil on soov töökohapõhist õpet oma ettevõttes rakendada, siis tutvuge 
 
 <strong><span style="color: #1f77b7;">Koolitused</span></strong>
 Tartu Kutsehariduskeskuse koolitus- ja nõustamiskeskusel on pikaajaline kogemus tööalaste koolituste korraldamisel. Oleme usaldusväärseks koolituspartneriks ettevõtetele üle Eesti.
-
-koostame Teie vajadustele vastava õppekava ja kaasame sobivad koolitajad;
-korraldame üritusi koos töötajatele mõeldud koolitusega.
-Koolitused viiakse läbi Tartu Kutsehariduskeskuse õppehoonetes või Teile sobivas kohas.
-
+<ul>
+ 	<li>koostame Teie vajadustele vastava õppekava ja kaasame sobivad koolitajad;</li>
+ 	<li>korraldame üritusi koos töötajatele mõeldud koolitusega.
+Koolitused viiakse läbi Tartu Kutsehariduskeskuse õppehoonetes või Teile sobivas kohas.</li>
+</ul>
 Ülevaade avatud kursustest ja toimumisaegadest.
