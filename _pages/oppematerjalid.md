@@ -13,9 +13,9 @@ post_date: 2018-03-07 09:30:35
 <p style="font-weight: 400;">Kui kellelgi on idee oma aines kasutatava e-õppematerjali tegemiseks, palun pöörduge haridustehnoloog <strong>Maarja Kase</strong> poole, et leida ideele sobiv teostusvõimalus.</p>
 
 <ul>
- 	<li><a href="https://www.codecademy.com/en/tracks/web">HTML &amp; CSS kursus - Codecademy</a></li>
- 	<li><a href="https://www.codecademy.com/learn/introduction-to-javascript">JavaScripti kursus - Codecademy</a></li>
- 	<li><a href="https://www.codecademy.com/en/tracks/php">PHP kursus - Codecademy</a></li>
- 	<li><a href="https://www.codecademy.com/learn/learn-sql">SQL kursus - Codecademy</a></li>
- 	<li><a href="https://www.udemy.com/learn-adobe-photoshop-from-scratch/learn/v4/overview">Photoshopi kursus - Udemy</a></li>
+ 	<li><a href="https://www.codecademy.com/en/tracks/web">HTML &amp; CSS kursus</a> - Codecademy</li>
+ 	<li><a href="https://www.codecademy.com/learn/introduction-to-javascript">JavaScripti kursus</a> - Codecademy</li>
+ 	<li><a href="https://www.codecademy.com/en/tracks/php">PHP kursus</a> - Codecademy</li>
+ 	<li><a href="https://www.codecademy.com/learn/learn-sql">SQL kursus</a> - Codecademy</li>
+ 	<li><a href="https://www.udemy.com/learn-adobe-photoshop-from-scratch/learn/v4/overview">Photoshopi kursus</a> - Udemy</li>
 </ul>
