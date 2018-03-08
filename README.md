@@ -1,2 +1,2 @@
 # khk
-Tartu Kutsehariduskeskuse IKT osakonna veebileht
+Tartu Kutsehariduskeskuse IKT osakonna veebilehe postitused ja muu sisu.
