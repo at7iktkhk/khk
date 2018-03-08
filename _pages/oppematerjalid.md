@@ -23,4 +23,5 @@ post_date: 2018-03-07 09:30:35
  	<li><a href="https://www.codecademy.com/learn/learn-rails">Ruby on Rails kursus</a> - Codecademy</li>
  	<li><a href="https://www.codecademy.com/learn/learn-express">Expressi kursus</a> - Codecademy</li>
  	<li><a href="https://www.udemy.com/learn-adobe-photoshop-from-scratch/learn/v4/overview">Photoshopi kursus</a> - Udemy</li>
+ 	<li><a href="https://www.codecademy.com/learn/learn-java">Java kursus</a> - Codecademy</li>
 </ul>
